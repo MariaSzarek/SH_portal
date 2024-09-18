@@ -1,20 +1,20 @@
-# Strona Tytułowa Dokumentacji
+# Documentation Title Page
 
-Witamy w dokumentacji. Skorzystaj z poniższej listy, aby nawigować po różnych sekcjach dokumentu.
+Welcome to the documentation. Use the list below to navigate to different sections of the document.
 
-## Spis treści
+## Table of Contents
 
 - [Link](#link)
-- [Inna sekcja](#inna-sekcja)
+- [Another Section](#another-section)
 
 ---
 
 ## Link
 
-Tutaj znajdziesz więcej informacji na temat linku.
+Here you will find more information about the link.
 
 ---
 
-## Inna sekcja
+## Another Section
 
-Tutaj znajdziesz więcej informacji na temat innej sekcji.
+Here you will find more information about the other section.
