@@ -4,31 +4,17 @@ Witamy w dokumentacji. Skorzystaj z poniższej listy, aby nawigować po różnyc
 
 ## Spis treści
 
-- [Sekcja 1: Wprowadzenie](#sekcja-1)
-- [Sekcja 2: Instrukcje użytkowania](#sekcja-2)
-- [Sekcja 3: Szczegóły techniczne](#sekcja-3)
-- [Sekcja 4: Kontakt](#sekcja-4)
+- [Link](#link)
+- [Inna sekcja](#inna-sekcja)
 
 ---
 
-## Sekcja 1: Wprowadzenie
+## Link
 
-Tutaj znajdziesz wprowadzenie do naszej dokumentacji.
-
----
-
-## Sekcja 2: Instrukcje użytkowania
-
-W tej sekcji znajdziesz instrukcje dotyczące użytkowania naszego produktu.
+Tutaj znajdziesz więcej informacji na temat linku.
 
 ---
 
-## Sekcja 3: Szczegóły techniczne
+## Inna sekcja
 
-Tutaj omówimy szczegóły techniczne dotyczące implementacji.
-
----
-
-## Sekcja 4: Kontakt
-
-Jeśli masz pytania, skontaktuj się z nami.
+Tutaj znajdziesz więcej informacji na temat innej sekcji.
