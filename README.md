@@ -40,6 +40,13 @@ Tutaj omówimy szczegóły techniczne dotyczące implementacji.
 
 ---
 
+### My Stupendous Header
+
+…
+And then later, I want to go to the [header](#my-stupendous-header), you create a link, just like any other.
+
+---
+
 <a id="top"></a>
 ## Sekcja 4: Kontakt
 
