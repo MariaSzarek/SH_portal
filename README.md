@@ -1,5 +1,3 @@
-# SH_portal
-SH portal
 # Strona Tytułowa Dokumentacji
 
 Witamy w dokumentacji. Skorzystaj z poniższej listy, aby nawigować po różnych sekcjach dokumentu.
@@ -9,7 +7,7 @@ Witamy w dokumentacji. Skorzystaj z poniższej listy, aby nawigować po różnyc
 - [Sekcja 1: Wprowadzenie](#sekcja-1)
 - [Sekcja 2: Instrukcje użytkowania](#sekcja-2)
 - [Sekcja 3: Szczegóły techniczne](#sekcja-3)
-- [header](#my-stupendous-header),
+- [Sekcja 4: Kontakt](#kontakt)
 - <a href="#top">Wróć na górę strony</a>
 
 ---
@@ -41,14 +39,7 @@ Tutaj omówimy szczegóły techniczne dotyczące implementacji.
 
 ---
 
-### My Stupendous Header
 
-…
-And then later, I want to go to the [header](#my-stupendous-header), you create a link, just like any other.
-
----
-
-<a id="top"></a>
 ## Sekcja 4: Kontakt
 
 Jeśli masz pytania, skontaktuj się z nami.
