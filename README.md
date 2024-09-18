@@ -9,6 +9,7 @@ Witamy w dokumentacji. Skorzystaj z poniższej listy, aby nawigować po różnyc
 - [Sekcja 1: Wprowadzenie](#sekcja-1)
 - [Sekcja 2: Instrukcje użytkowania](#sekcja-2)
 - [Sekcja 3: Szczegóły techniczne](#sekcja-3)
+- [header](#my-stupendous-header),
 - <a href="#top">Wróć na górę strony</a>
 
 ---
