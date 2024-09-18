@@ -1,4 +1,4 @@
-# Documentation Title Page
+ # Documentation Title Page
 
 Welcome to the documentation. Use the list below to navigate to different sections of the document.
 
@@ -9,12 +9,14 @@ Welcome to the documentation. Use the list below to navigate to different sectio
 
 ---
 
+<a id="link"></a>
 ## Link
 
 Here you will find more information about the link.
 
 ---
 
+<a id="another-section"></a>
 ## Another Section
 
 Here you will find more information about the other section.
